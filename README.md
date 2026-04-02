@@ -90,6 +90,6 @@ Matplotlib
 Scikit-learn
 yFinance
 
- #Conclusion
+#Conclusion
 
 This project demonstrates how combining statistical techniques like CUSUM with machine learning models can effectively detect and predict market crashes, providing valuable insights for financial risk management.
